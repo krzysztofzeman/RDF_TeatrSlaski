@@ -1,0 +1,104 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ts="https://teatrslaski.art.pl/"
+         xmlns:dt="https://teatrslaski.art.pl/dzialalnosc-teatru/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+<rdf:Description rdf:about="https://teatrslaski.art.pl/">
+<ts:repertuar>
+<rdf:Bag>
+<rdf:li rdf:resource="https://teatrslaski.art.pl/repertuar/pozostalespektakle"/>
+<rdf:li rdf:resource="https://teatrslaski.art.pl/repertuar/folwark-zwierzecy"/>
+</rdf:Bag>
+</ts:repertuar>
+
+<ts:kontakty>
+<rdf:Bag>
+<ts:adres>Teatr Śląski im. Stanisława Wyspiańskiego Rynek 10, 40-003 Katowice</ts:adres>
+<ts:telefon>+48 32 258 72 51</ts:telefon>
+</rdf:Bag>
+</ts:kontakty>
+
+<ts:historia>
+<rdf:Bag>
+<ts:rokZalozenia>1907</ts:rokZalozenia>
+<ts:fundatorzy>Stanisław Wyspiański</ts:fundatorzy>
+<ts:wydarzeniaKluczowe>
+<rdf:Bag>
+<rdf:li>Otwarcie w 1907 roku</rdf:li>
+<rdf:li>Nadanie imienia Stanisława Wyspiańskiego w 1922 roku</rdf:li>
+<rdf:li>Renowacja budynku w latach 2015-2017</rdf:li>
+</rdf:Bag>
+</ts:wydarzeniaKluczowe>
+</rdf:Bag>
+</ts:historia>
+
+<ts:dzialalnoscEdukacyjna>
+<rdf:Bag>
+<rdf:li>Warsztaty teatralne dla młodzieży</rdf:li>
+<rdf:li>Spotkania z aktorami i reżyserami</rdf:li>
+<rdf:li>Kursy interpretacji tekstów dramatycznych</rdf:li>
+</rdf:Bag>
+</ts:dzialalnoscEdukacyjna>
+
+</rdf:Description>
+
+<rdf:Description rdf:about="https://teatrslaski.art.pl/repertuar/folwark-zwierzecy">
+<ts:realizatorzy>
+<rdf:Bag>
+<ts:realizatorzy>reżyseria, adaptacja i opracowanie muzyczne / Jan Klata</ts:realizatorzy>
+<ts:realizatorzy>adaptacja i dramaturgia / Miłosz Markiewicz</ts:realizatorzy>
+<ts:realizatorzy>scenografia, kostiumy i reżyseria światła / Justyna Łagowska</ts:realizatorzy>
+<ts:realizatorzy>choreografia / Maćko Prusak</ts:realizatorzy>
+<ts:realizatorzy>przekład / Szymon Żuchowski</ts:realizatorzy>
+<ts:realizatorzy>inspicjentka / Anna Kandziora</ts:realizatorzy>
+<ts:realizatorzy>suflerki / Dagmara Habryka-Białas, Karolina Wieczorek</ts:realizatorzy>
+<ts:realizatorzy>realizacja dźwięku / Maciej Baranowski, Oskar Cichoń</ts:realizatorzy>
+<ts:realizatorzy>realizacja światła / Maria Machowska, Piotr Roszczenko, Szymon Suchoń</ts:realizatorzy>
+<ts:realizatorzy>kierownictwo produkcji / Małgorzata Długowska-Błach</ts:realizatorzy>
+<ts:realizatorzy>kierownictwo techniczne produkcji / Maciej Rokita</ts:realizatorzy>
+<ts:realizatorzy>asystentka produkcji / Dorota Damec</ts:realizatorzy>
+<ts:realizatorzy>projekt plakatu (z użyciem AI) / Szymon Szymankiewicz</ts:realizatorzy>
+</rdf:Bag>
+</ts:realizatorzy>
+    
+<ts:obsada>
+<rdf:Bag>
+<ts:obsada>MAJOR (knur)Roman Michalski</ts:obsada>
+<ts:obsada>NAPOLEON (knur)Bartłomiej Błaszczyński</ts:obsada>
+<ts:obsada>CHRUMAK (knur)Michał Piotrowski</ts:obsada>
+<ts:obsada>KWIKACZ (wieprz)Marcin Gaweł</ts:obsada>
+<ts:obsada>BOKSER (koń)Grzegorz Przybył</ts:obsada>
+<ts:obsada>KONICZYNKA (klacz)Ewa Kutynia</ts:obsada>
+<ts:obsada>MOLLIE (klacz)Nina Batovska</ts:obsada>
+<ts:obsada>BENIAMIN (osioł)Jerzy Głybin</ts:obsada>
+<ts:obsada>MURIEL (koza)Ewa Leśniak</ts:obsada>
+<ts:obsada>MOJŻESZ (kruk)Anna Kadulska</ts:obsada>
+<ts:obsada>KOTKA (kotka)Aleksandra Przybył</ts:obsada>
+<ts:obsada>SABA (suka)Aleksandra Bernatek (gościnnie)</ts:obsada>
+<ts:obsada>REX (pies)Paweł Kempa</ts:obsada>
+<ts:obsada>ARES (pies)Dawid Ściupidro</ts:obsada>
+<ts:obsada>PIKUŚ (pies)Arkadiusz Machel</ts:obsada>
+<ts:obsada>DOLLY (owca)Katarzyna Błaszczyńska</ts:obsada>
+<ts:obsada>POLLY (owca)Alina Chechelska</ts:obsada>
+<ts:obsada>HOLLY (owca)Kateryna Vasiukova</ts:obsada>
+<ts:obsada>Studenci Szkoły Aktorskiej Teatru Śląskiego</ts:obsada>
+</rdf:Bag>
+</ts:obsada>
+
+<ts:informacjeospektaklu>
+<rdf:Bag>
+<ts:informacjeospektaklu>Stworzone na podstawie powieści Georga Orwella</ts:informacjeospektaklu>
+<ts:informacjeospektaklu>Miejsce grania: Duża scena</ts:informacjeospektaklu>
+<ts:informacjeospektaklu>Czas trwania: 2h25min. z przerwa</ts:informacjeospektaklu>
+<ts:informacjeospektaklu>Data premiery: 19/04/2024</ts:informacjeospektaklu>
+</rdf:Bag>
+</ts:informacjeospektaklu>
+
+
+</rdf:Description>
+
+
+</rdf:RDF>
